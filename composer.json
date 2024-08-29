@@ -1,0 +1,18 @@
+{
+    "name": "fridde/extended_collection",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fridde",
+            "email": "f@hehl.se"
+        }
+    ],
+    "require": {
+        "doctrine/collections": "^2.2"
+    },
+    "autoload": {
+        "psr-4": { "Fridde\\": "src/" }
+    },
+    "minimum-stability": "dev"
+}
